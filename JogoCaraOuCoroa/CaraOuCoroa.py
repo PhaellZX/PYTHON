@@ -20,6 +20,10 @@ while jogador != 2:
         computador = 0
     elif jogador == 2:
         print('GAME OVER!')
+    else:
+        print('{}Valor Inválido!!'.format(cores['vermelho']))
+        print('Por punição, o computador ganha :|{}'.format(cores['neutra']))
+        placarComputador += 1
     if jogador == 0 or jogador == 1:
         print('-=-' * 10)
         print('{}O jogador escolheu {}!{}'.format(cores['verde'],moeda[jogador],cores['neutra']))
