@@ -1,8 +1,6 @@
 from random import randint
 from time import sleep
-jogador = 0
-placarJogador = 0
-placarComputador = 0
+jogador = placarJogador = placarComputador = 0
 cores = {'neutra':'\033[m',
          'verde':'\033[32m',
          'vermelho':'\033[31m'}
