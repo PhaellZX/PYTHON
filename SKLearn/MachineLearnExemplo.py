@@ -1,6 +1,6 @@
 from sklearn import tree
 # Apredizado Supersionado
-# Obs: o sklearn não trabalha com strings, com inteiros
+# Obs: o sklearn não trabalha com strings, só com inteiros
 lisa = 1
 irregular = 0
 maca = 1
