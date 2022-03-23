@@ -1,4 +1,4 @@
-# Como Criar e Mofificar arquivos
+# Como Criar e Modificar arquivos
 valores_celular = [820, 2230, 1500, 3500, 5000]
 
 '''
