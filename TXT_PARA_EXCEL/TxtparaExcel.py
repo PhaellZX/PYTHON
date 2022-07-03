@@ -21,5 +21,5 @@ try:
         print('ARQUIVO CONVERTIDO!!\n''PRESSSIONE QUALQUER BOTÃO...')
         input()
 except IOError:
-    print('Arquivo não encontrado')
+    print('Arquivo não encontrado!')
     input()
